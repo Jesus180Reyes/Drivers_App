@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "903644868265",
+    "firebase_url": "https://flutter-transporte-kariken-default-rtdb.firebaseio.com",
+    "project_id": "flutter-transporte-kariken",
+    "storage_bucket": "flutter-transporte-kariken.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903644868265:android:cfee60448465a0123543b8",
+        "android_client_info": {
+          "package_name": "com.jesusreyes.driversapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903644868265-0nvd8tk6psm2ms694p1s62tq65mmp439.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Z0MTVR-vC2klrQAfPGRNJHhCbpqqyrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903644868265-0nvd8tk6psm2ms694p1s62tq65mmp439.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:903644868265:android:9b5969fdb3dcacd73543b8",
+        "android_client_info": {
+          "package_name": "com.jesusreyes.rider_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "903644868265-0nvd8tk6psm2ms694p1s62tq65mmp439.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Z0MTVR-vC2klrQAfPGRNJHhCbpqqyrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "903644868265-0nvd8tk6psm2ms694p1s62tq65mmp439.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
